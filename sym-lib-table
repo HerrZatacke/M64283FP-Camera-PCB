@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name "JST Connector")(type "KiCad")(uri "${KIPRJMOD}/JST Connector/JST Connector.kicad_sym")(options "")(descr ""))
+  (lib (name "M6428xFP Sensors")(type "KiCad")(uri "${KIPRJMOD}/M6428xFP Sensors/M6428xFP Sensors.kicad_sym")(options "")(descr ""))
+)
