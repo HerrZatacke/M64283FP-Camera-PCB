@@ -9,6 +9,14 @@ This KiCad Project aims to replace the original GameBoy Camera Sensor PCB to all
 ## License
 [MIT](LICENSE)
 
+## Revision History
+### 24. Aug 2023
+  * Added Solderpoints for GND and VOUT
+  * Changed PCB Shape to prevent light leaking
+  * Changed footprints to prevent
+### [08. Aug 2023](/HerrZatacke/M64283FP-Camera-PCB/tree/d5482509ec9628336e77a40f23f6922016d4d017)
+  * Initial Version
+
 ## Disclaimer
 Attempt all modifications at your own risk. All sensors are highly sensitive to excessive heat. SMD projects are not for beginners. Use common sense. 
 
