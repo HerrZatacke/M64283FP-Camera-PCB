@@ -33,9 +33,9 @@
         "other_text_thickness": 0.15,
         "other_text_upright": false,
         "pads": {
-          "drill": 0.2,
-          "height": 0.85,
-          "width": 0.85
+          "drill": 0.0,
+          "height": 1.0,
+          "width": 3.5
         },
         "silk_line_width": 0.15,
         "silk_text_italic": false,
@@ -56,12 +56,7 @@
         }
       ],
       "drc_exclusions": [
-        "silk_over_copper|122600000|95799998|eba5476b-baa7-420e-aef5-a4ccab591f16|43963c4e-cd5e-43ed-bbfc-99cf34c4d91f",
-        "silk_over_copper|139200000|91900000|4d1a443e-b14b-4b89-93e0-a88bf55b7ea7|750fbc33-18f5-4378-84e9-cf19fcae1a8b",
-        "silk_over_copper|139200000|91900000|4d1a443e-b14b-4b89-93e0-a88bf55b7ea7|994b84b8-ee87-483c-8e9e-c6d81911e7bd",
-        "silk_over_copper|139229825|98017552|fdd12df2-b1e1-4d70-bf02-ddcc1cac8e83|26a1e9f7-e982-45c8-958f-60d68b804653",
-        "silk_over_copper|139243799|97753641|4d13264c-325b-4924-80c7-502fa39bd60d|26a1e9f7-e982-45c8-958f-60d68b804653",
-        "silk_over_copper|139807962|97538454|fb803ccf-74cf-4129-afb3-24a065829864|26a1e9f7-e982-45c8-958f-60d68b804653"
+        "silk_over_copper|122600000|95799998|eba5476b-baa7-420e-aef5-a4ccab591f16|bbb4c73c-f185-446c-a1f3-929e572ddbbe"
       ],
       "meta": {
         "version": 2
@@ -352,15 +347,13 @@
     "pinned_footprint_libs": [
       "JST Connector",
       "Logo",
-      "M6428xFP"
+      "M6428xFP",
+      "SMT (LP)"
     ],
-    "pinned_symbol_libs": [
-      "JST Connector",
-      "M6428xFP Sensors"
-    ]
+    "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "GBC Sensor breakout.kicad_pro",
+    "filename": "M64283FP-Camera-PCB.kicad_pro",
     "version": 1
   },
   "net_settings": {
