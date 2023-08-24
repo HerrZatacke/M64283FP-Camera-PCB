@@ -2,4 +2,5 @@
   (lib (name "JST Connector")(type "KiCad")(uri "${KIPRJMOD}/JST Connector/JST Connector.pretty")(options "")(descr ""))
   (lib (name "M6428xFP")(type "KiCad")(uri "${KIPRJMOD}/M6428xFP Sensors/M6428xFP.pretty")(options "")(descr ""))
   (lib (name "Logo")(type "KiCad")(uri "${KIPRJMOD}/Logo/Logo.pretty")(options "")(descr ""))
+  (lib (name "SMT (LP)")(type "KiCad")(uri "${KIPRJMOD}/SMT (LP)/SMT (LP).pretty")(options "")(descr ""))
 )
