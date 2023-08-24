@@ -2,7 +2,7 @@
 
 A PCB for mounting the M64283FP sensor to use it with a regular GameBoy Camera
 
-With the revision from [24. Aug 2023](#08-aug-2023) it acts also as a good improvement against lightleaks when using the regular sensor ([Note this](#disclaimer)). 
+With the revision from [24. Aug 2023](#24-aug-2023) it acts also as a good improvement against lightleaks when using the regular sensor ([Note this](#disclaimer)). 
 
 This KiCad Project aims to replace the original GameBoy Camera Sensor PCB to allow using the alternative M64283FP sensor including accessing it's two extra pins `TADD` and `STRB`
 
