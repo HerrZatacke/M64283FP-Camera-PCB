@@ -350,7 +350,10 @@
       "M6428xFP",
       "SMT (LP)"
     ],
-    "pinned_symbol_libs": []
+    "pinned_symbol_libs": [
+      "JST Connector",
+      "M6428xFP Sensors"
+    ]
   },
   "meta": {
     "filename": "M64283FP-Camera-PCB.kicad_pro",
